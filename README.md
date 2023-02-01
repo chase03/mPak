@@ -16,19 +16,18 @@
     </a>
 </p>
 
-# mPak使用方法:
+# mPak Usage:
 - [-help]         help
 - [-output=path]  Save to path		 
 - [.pak] [.pak]   Package multiple files into mPak		 
 - [file.mpak]     Split the mPak to multiple files
 
 
-# 设计初衷：
-- 降低资源包的管理成本
-- 使得虚幻引擎项目更加灵活自由
-- 打破开发者与用户之间的界限
-- 降低功能模块测试的繁琐度
-
+# original intention of design：
+- Reduce the cost of managing resource bundles
+- Making Unreal Engine project more flexible and free
+- Breaking down the boundaries between developer and user
+- Reduce the complexity of functional testing
 
 
 
