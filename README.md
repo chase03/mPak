@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="./logo.png" width="250px"></img>
+<img src="./img/logo.png" width="250px"></img>
 </p>
 <h1 align="center" style="font-size:50px;font-weight:bold">mPak</h1>
 <p align="center">Multi-platform pak integrated solution</p>
@@ -21,6 +21,11 @@
 - [-output=path]  Save to path		 
 - [.pak] [.pak]   Package multiple files into mPak		 
 - [file.mpak]     Split the mPak to multiple files
+
+# mPakImporter Usage:
+<img src="./img/mPakImporter.png" width="250px"></img>
+- Download and enable the mPakImporter
+<img src="./img/mPakImporter1.png" width="250px"></img>
 
 
 # original intention of design：
