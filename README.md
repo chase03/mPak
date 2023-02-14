@@ -36,6 +36,8 @@
 - Reduce the complexity of functional testing
 
 
+# file structure:
+<img src="./img/FileStructure.jpg" width="500px"></img>
 
 
 
